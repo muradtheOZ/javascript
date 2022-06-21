@@ -16,5 +16,5 @@ const IsLeapYear = (year) =>{
         return false;
     }
 }
-const year = 1900;
+const year = 2100;
 console.log(IsLeapYear(year));
